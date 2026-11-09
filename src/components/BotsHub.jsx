@@ -10,7 +10,7 @@ const BOT_COMMANDS = [
   },
   { 
     cmd: '/play [song]', 
-    response: '🎵 [Purvi Music] Connected to voice chat. Streaming 320kbps high-fidelity audio stream. Queue active.' 
+    response: '🎵 [AnupriyaaMusic] Connected to voice chat. Streaming 320kbps high-fidelity audio stream. Queue active.' 
   },
   { 
     cmd: '/report_abuse', 
